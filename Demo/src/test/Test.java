@@ -3,7 +3,7 @@ package test;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("test file added");
+		System.out.println("test file modified");
 	}
 
 }
